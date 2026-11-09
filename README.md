@@ -87,11 +87,7 @@ pip install -r requirements.txt
 
 ## Acknowledgment
 
-Our code incorporates components and design ideas inspired by [MANIQA](https://github.com/IIGROUP/MANIQA), proposed by Sidi Yang et al. We thank the authors for making their code publicly available.
-
-MANIQA paper: [MANIQA: Multi-Dimension Attention Network for No-Reference Image Quality Assessment](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Yang_MANIQA_Multi-Dimension_Attention_Network_for_No-Reference_Image_Quality_Assessment_CVPRW_2022_paper.html), CVPR Workshops, 2022.
-
-We also acknowledge Swin Transformer, timm, PyTorch and torchvision for the components and libraries used in this work.
+Our code incorporates components and design ideas inspired by [MANIQA](https://github.com/IIGROUP/MANIQA).
 
 ## License
 
